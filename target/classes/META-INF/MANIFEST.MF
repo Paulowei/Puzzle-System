@@ -1,0 +1,7 @@
+Main-Class: com.moderneinstein.web.vertx.puzzles.CentreVerticle  
+Specification-Title: Puzzle-System
+Specification-Vendor: Paul Owei 
+Specification-Version: 1.4
+Implementaion-Title: Puzzle-System
+Implemenation-Vendor: Paul Owei 
+Implementation-Version: 1.4
